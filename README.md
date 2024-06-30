@@ -1,4 +1,5 @@
 # minecraft-server-hosting, dont skid plz
+https://www.youtube.com/watch?v=RSeyavtONJE - tutorial visually, please like the vid <3
 NO PORT FORWARDING!
 this will allow you to host a feather server with mods! (IF YOU DO NOT UNDERSTAND, WATCH THE VIDEO FOR VISUAL)
 FIRST STEP:
